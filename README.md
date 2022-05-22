@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @LumosLiang
-- 👀 I’m interested in algorithm and data structure
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi there, I’m @LumosLiang
 
 <!---
 LumosLiang/LumosLiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
